@@ -1,1 +1,2 @@
+alert('Seja bem Vindo!')
 
